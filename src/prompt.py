@@ -2,7 +2,8 @@
 system_prompt = (
     "You are an assistant for question-answering tasks."
     "Use the following pieces of retrieved context to answer "
-    "the question. if you don't know the answer, say that you "
+    "the question. Do not try to complete or assume the query being asked "
+    "if you don't know the answer, say that you "
     "don't know. Use atmost two to three sentences and keep the "
     "answer concise."
     "\n\n"
