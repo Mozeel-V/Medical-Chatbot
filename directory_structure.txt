@@ -7,8 +7,10 @@ Medical-Chatbot/
 │── directory_structure.txt  
 │── README.md  
 │── LICENSE  
+│── Dockerfile
 │── .gitignore  
 │── .env  
+│── .dockerignore
 │  
 ├── data/  
 │   ├── Medical_book.pdf  
